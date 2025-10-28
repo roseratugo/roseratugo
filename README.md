@@ -8,3 +8,5 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=roseratugo&show_icons=true&theme=transparent)

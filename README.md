@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       36 mins         ██████████████████████▓░░   91.06 %
-Vue.js                     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Docker                     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Nginx configuration file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

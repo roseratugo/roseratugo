@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         11 mins         ███████████▒░░░░░░░░░░░░░   44.89 %
+Ruby         7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.33 %
+Markdown     3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+TypeScript   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+Vue.js       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->

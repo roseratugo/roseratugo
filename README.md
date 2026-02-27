@@ -2,7 +2,7 @@
 
 **Fullstack Dev & Digital Craftsman**
 
-Charg&eacute; de production, communication et d&eacute;veloppement logiciel @ [ACR Fers Aluminium](https://www.linkedin.com/in/ugo-roserat/)
+Production, Communication & Software Development Manager @ [ACR Fers Aluminium](https://www.linkedin.com/in/ugo-roserat/)
 
 ---
 
@@ -31,5 +31,5 @@ Charg&eacute; de production, communication et d&eacute;veloppement logiciel @ [A
 ### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-roserat/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://roserat-ugo.com/fr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://roserat-ugo.com/fr/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:roserat.ugo@gmail.com)

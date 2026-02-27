@@ -1,91 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Ugo%20Roserat&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Fullstack%20Dev%20%26amp;%20Digital%20Craftsman&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Ugo%20Roserat&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Dev%20%7C%20Digital%20Craftsman&descSize=15&descColor=ffffffaa&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=Production%2C+Communication+%26+Software+Dev+Manager+%40+Acr+Aluminium+Horseshoes)](https://www.acr-concept.com/)
+<a href="https://www.acr-concept.com/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Production%2C+Communication+%26+Software+Dev+Manager;%40+Acr+Aluminium+Horseshoes" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ugo-roserat/">
+<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://roserat-ugo.com/fr/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:roserat.ugo@gmail.com">
+<img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `> whoami`
+<div align="center">
 
 ```yaml
 name: Ugo Roserat
 role: Fullstack Developer
 company: Acr Aluminium Horseshoes
 location: France
-interests:
-  - Web & Desktop Applications
-  - Graphic Design
-  - 3D Modeling / CAD / CAM
-  - Knifemaking
-  - Cooking
+interests: [Web & Desktop Apps, Graphic Design, 3D / CAD / CAM, Knifemaking, Cooking]
 ```
 
-</td>
-<td width="50%" valign="top">
-
-### `> tech --list`
-
-<br/>
-
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ts,vue,react,astro,nodejs,python,rust,tauri&perline=4&theme=dark" />
-</a>
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 <div align="center">
 
-### `> stats --verbose`
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,vue,react,astro,nodejs,python,rust,tauri&theme=light" />
+</a>
+
+</div>
 
 <br/>
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/roseratugo?cardType=level-alternate&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=roseratugo&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" height="180" />
+<div align="center">
 
-<br/><br/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/roseratugo?cardType=level-alternate&theme=default&fontFamily=JetBrains%20Mono&preferLogin=false&Border=e4e2e2" height="170" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=roseratugo&theme=default&hide_border=false&border=e4e2e2&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&dates=888888" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roseratugo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+</div>
 
 <br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roseratugo&bg_color=ffffff&color=6C63FF&line=6C63FF&point=333333&area=true&area_color=6C63FF&hide_border=false&custom_title=Contribution%20Graph&title_color=333333" width="95%" />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roseratugo/roseratugo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roseratugo/roseratugo/output/github-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/roseratugo/roseratugo/output/github-snake-dark.svg" width="95%" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/roseratugo/roseratugo/output/github-snake.svg" width="95%" />
 </picture>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-### `> contact --reach-me`
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/ugo-roserat/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://roserat-ugo.com/fr/)
-&nbsp;
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:roserat.ugo@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%" />

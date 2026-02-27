@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:4a7c9b,100:a8c4d9&height=180&section=header&text=Ugo%20Roserat&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Dev%20%7C%20Digital%20Craftsman&descSize=15&descColor=ffffffcc&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:4a7c9b,100:a8c4d9&height=180&section=header&text=Ugo%20ROSERAT&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Dev%20%7C%20Digital%20Craftsman&descSize=15&descColor=ffffffcc&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -29,7 +29,7 @@
 <div align="center">
 
 ```yaml
-name: Ugo Roserat
+name: Ugo ROSERAT
 role: Fullstack Developer
 company: Acr Aluminium Horseshoes
 location: France
